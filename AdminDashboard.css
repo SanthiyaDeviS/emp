@@ -1,0 +1,39 @@
+.admin-dashboard-container {
+  width: 300px;
+  position: absolute;
+  top: 50%;
+  left: 65%;
+  transform: translate(-50%, -50%);
+  height:450px;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background-color: #f9f9f9;
+  display: flex;
+  flex-direction: column;
+  align-items:center;
+  background:transparent;
+  border:2px solid rgba(255,255,255,.2);
+  box-shadow:0 0 10px rgba(0,0,0,.2);
+  backdrop-filter: blur(30px);
+  font-size:20px;
+  border-radius: 30px;
+  }
+  
+  .options-list {
+    font-size:24px;
+    list-style-type: none;
+    padding: 10px;
+    border-radius:25px;
+  }
+  
+  .options-list li {
+    margin-bottom: 10px;
+    cursor: pointer;
+  }
+  
+  .options-list li:hover {
+    background-color: #e0e0e0;
+    border-radius:25px;
+  }
+  

@@ -1,0 +1,768 @@
+2024-02-12 10:18:23,580 - INFO - User john logged in.
+2024-02-12 10:18:35,885 - INFO - User meena logged in.
+2024-02-12 10:18:44,090 - ERROR -  Your choice meena is invalid
+2024-02-12 10:18:56,955 - INFO - User meena logged in.
+2024-02-12 10:19:08,536 - INFO - User sakthi logged in.
+2024-02-12 10:19:20,341 - INFO - User pooja logged in.
+2024-02-12 11:35:18,462 - INFO - User meena logged in.
+2024-02-12 11:36:30,983 - INFO - User pooja logged in.
+2024-02-12 11:37:57,027 - ERROR - Invalid username or password
+2024-02-13 12:39:09,329 - INFO - User pooja logged in.
+2024-02-19 19:12:44,284 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-02-19 19:12:44,284 - INFO - [33mPress CTRL+C to quit[0m
+2024-02-19 19:12:44,284 - INFO -  * Restarting with stat
+2024-02-19 19:12:44,533 - WARNING -  * Debugger is active!
+2024-02-19 19:12:44,538 - INFO -  * Debugger PIN: 110-433-334
+2024-02-19 19:14:14,106 - INFO -  * Detected change in 'C:\\Users\\ssakth029\\Desktop\\Emp_checkin\\emp_checkin\\src\\data\\emp_checkin.py', reloading
+2024-02-19 19:14:14,123 - INFO -  * Restarting with stat
+2024-02-19 19:14:14,375 - WARNING -  * Debugger is active!
+2024-02-19 19:14:14,376 - INFO -  * Debugger PIN: 110-433-334
+2024-02-19 19:14:24,749 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-02-19 19:14:24,749 - INFO - [33mPress CTRL+C to quit[0m
+2024-02-19 19:14:24,749 - INFO -  * Restarting with stat
+2024-02-19 19:14:24,989 - WARNING -  * Debugger is active!
+2024-02-19 19:14:24,989 - INFO -  * Debugger PIN: 110-433-334
+2024-02-19 19:15:23,344 - INFO -  * Detected change in 'C:\\Users\\ssakth029\\Desktop\\Emp_checkin\\emp_checkin\\src\\data\\emp_checkin.py', reloading
+2024-02-19 19:15:23,359 - INFO -  * Restarting with stat
+2024-02-19 19:15:23,608 - WARNING -  * Debugger is active!
+2024-02-19 19:15:23,608 - INFO -  * Debugger PIN: 110-433-334
+2024-02-19 19:15:30,664 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-02-19 19:15:30,664 - INFO - [33mPress CTRL+C to quit[0m
+2024-02-19 19:15:30,664 - INFO -  * Restarting with stat
+2024-02-19 19:15:30,903 - WARNING -  * Debugger is active!
+2024-02-19 19:15:30,903 - INFO -  * Debugger PIN: 110-433-334
+2024-02-19 19:19:09,152 - INFO -  * Detected change in 'C:\\Users\\ssakth029\\Desktop\\Emp_checkin\\emp_checkin\\src\\data\\emp_checkin.py', reloading
+2024-02-19 19:19:09,180 - INFO -  * Restarting with stat
+2024-02-19 19:19:09,417 - WARNING -  * Debugger is active!
+2024-02-19 19:19:09,433 - INFO -  * Debugger PIN: 110-433-334
+2024-02-19 19:19:12,486 - INFO -  * Detected change in 'C:\\Users\\ssakth029\\Desktop\\Emp_checkin\\emp_checkin\\src\\data\\emp_checkin.py', reloading
+2024-02-19 19:19:12,501 - INFO -  * Restarting with stat
+2024-02-19 19:19:12,736 - WARNING -  * Debugger is active!
+2024-02-19 19:19:12,736 - INFO -  * Debugger PIN: 110-433-334
+2024-02-19 19:19:18,675 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-02-19 19:19:18,675 - INFO - [33mPress CTRL+C to quit[0m
+2024-02-19 19:19:18,675 - INFO -  * Restarting with stat
+2024-02-19 19:19:18,902 - WARNING -  * Debugger is active!
+2024-02-19 19:19:18,920 - INFO -  * Debugger PIN: 110-433-334
+2024-02-19 19:19:34,001 - INFO -  * Detected change in 'C:\\Users\\ssakth029\\Desktop\\Emp_checkin\\emp_checkin\\src\\data\\emp_checkin.py', reloading
+2024-02-19 19:19:34,031 - INFO -  * Restarting with stat
+2024-02-19 19:19:34,270 - WARNING -  * Debugger is active!
+2024-02-19 19:19:34,270 - INFO -  * Debugger PIN: 110-433-334
+2024-02-19 19:19:36,297 - INFO -  * Detected change in 'C:\\Users\\ssakth029\\Desktop\\Emp_checkin\\emp_checkin\\src\\data\\emp_checkin.py', reloading
+2024-02-19 19:19:36,323 - INFO -  * Restarting with stat
+2024-02-19 19:19:36,574 - WARNING -  * Debugger is active!
+2024-02-19 19:19:36,574 - INFO -  * Debugger PIN: 110-433-334
+2024-02-19 19:19:37,595 - INFO -  * Detected change in 'C:\\Users\\ssakth029\\Desktop\\Emp_checkin\\emp_checkin\\src\\data\\emp_checkin.py', reloading
+2024-02-19 19:19:37,608 - INFO -  * Restarting with stat
+2024-02-19 19:19:37,874 - WARNING -  * Debugger is active!
+2024-02-19 19:19:37,874 - INFO -  * Debugger PIN: 110-433-334
+2024-02-19 19:23:51,844 - INFO - 127.0.0.1 - - [19/Feb/2024 19:23:51] "[33mGET / HTTP/1.1[0m" 404 -
+2024-02-19 19:23:55,531 - ERROR - Invalid username or password
+2024-02-19 19:23:55,531 - INFO - 127.0.0.1 - - [19/Feb/2024 19:23:55] "[31m[1mGET /login HTTP/1.1[0m" 401 -
+2024-02-19 19:24:20,797 - INFO -  * Detected change in 'C:\\Users\\ssakth029\\Desktop\\Emp_checkin\\emp_checkin\\src\\data\\emp_checkin.py', reloading
+2024-02-19 19:24:20,828 - INFO -  * Restarting with stat
+2024-02-19 19:24:21,084 - WARNING -  * Debugger is active!
+2024-02-19 19:24:21,089 - INFO -  * Debugger PIN: 110-433-334
+2024-02-19 19:24:22,101 - INFO -  * Detected change in 'C:\\Users\\ssakth029\\Desktop\\Emp_checkin\\emp_checkin\\src\\data\\emp_checkin.py', reloading
+2024-02-19 19:24:22,123 - INFO -  * Restarting with stat
+2024-02-19 19:24:22,364 - WARNING -  * Debugger is active!
+2024-02-19 19:24:22,370 - INFO -  * Debugger PIN: 110-433-334
+2024-02-19 19:24:24,390 - INFO -  * Detected change in 'C:\\Users\\ssakth029\\Desktop\\Emp_checkin\\emp_checkin\\src\\data\\emp_checkin.py', reloading
+2024-02-19 19:24:24,414 - INFO -  * Restarting with stat
+2024-02-19 19:24:24,649 - WARNING -  * Debugger is active!
+2024-02-19 19:24:24,655 - INFO -  * Debugger PIN: 110-433-334
+2024-02-19 19:24:28,099 - INFO - User harini logged in.
+2024-02-19 19:24:28,099 - INFO - 127.0.0.1 - - [19/Feb/2024 19:24:28] "GET /login HTTP/1.1" 200 -
+2024-02-19 19:24:28,365 - INFO - User harini logged in.
+2024-02-19 19:24:28,366 - INFO - 127.0.0.1 - - [19/Feb/2024 19:24:28] "GET /login HTTP/1.1" 200 -
+2024-02-19 19:24:35,723 - INFO -  * Detected change in 'C:\\Users\\ssakth029\\Desktop\\Emp_checkin\\emp_checkin\\src\\data\\emp_checkin.py', reloading
+2024-02-19 19:24:35,739 - INFO -  * Restarting with stat
+2024-02-19 19:24:35,982 - WARNING -  * Debugger is active!
+2024-02-19 19:24:35,982 - INFO -  * Debugger PIN: 110-433-334
+2024-02-19 19:24:38,157 - INFO - User pooja logged in.
+2024-02-19 19:24:38,157 - INFO - 127.0.0.1 - - [19/Feb/2024 19:24:38] "GET /login HTTP/1.1" 200 -
+2024-02-19 19:35:51,567 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-02-19 19:35:51,567 - INFO - [33mPress CTRL+C to quit[0m
+2024-02-19 19:35:51,572 - INFO -  * Restarting with stat
+2024-02-19 19:35:51,856 - WARNING -  * Debugger is active!
+2024-02-19 19:35:51,856 - INFO -  * Debugger PIN: 110-433-334
+2024-02-19 19:42:07,024 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-02-19 19:42:07,024 - INFO - [33mPress CTRL+C to quit[0m
+2024-02-19 19:42:07,026 - INFO -  * Restarting with stat
+2024-02-19 19:42:07,256 - WARNING -  * Debugger is active!
+2024-02-19 19:42:07,256 - INFO -  * Debugger PIN: 110-433-334
+2024-02-19 19:42:20,171 - INFO - 127.0.0.1 - - [19/Feb/2024 19:42:20] "[33mOPTIONS /login/login HTTP/1.1[0m" 404 -
+2024-02-19 19:42:20,771 - INFO - 127.0.0.1 - - [19/Feb/2024 19:42:20] "[33mOPTIONS /login/login HTTP/1.1[0m" 404 -
+2024-02-19 19:42:22,428 - INFO - 127.0.0.1 - - [19/Feb/2024 19:42:22] "[33mOPTIONS /login/login HTTP/1.1[0m" 404 -
+2024-02-19 19:42:44,454 - INFO - 127.0.0.1 - - [19/Feb/2024 19:42:44] "[33mOPTIONS /login/login HTTP/1.1[0m" 404 -
+2024-02-19 19:42:45,501 - INFO - 127.0.0.1 - - [19/Feb/2024 19:42:45] "[33mOPTIONS /login/login HTTP/1.1[0m" 404 -
+2024-02-19 19:42:45,707 - INFO - 127.0.0.1 - - [19/Feb/2024 19:42:45] "[33mOPTIONS /login/login HTTP/1.1[0m" 404 -
+2024-02-19 19:43:09,391 - INFO - 127.0.0.1 - - [19/Feb/2024 19:43:09] "[31m[1mGET /login HTTP/1.1[0m" 405 -
+2024-02-19 19:43:09,427 - INFO - 127.0.0.1 - - [19/Feb/2024 19:43:09] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-02-19 19:43:11,590 - INFO - 127.0.0.1 - - [19/Feb/2024 19:43:11] "[31m[1mGET /login HTTP/1.1[0m" 405 -
+2024-02-19 19:43:11,907 - INFO - 127.0.0.1 - - [19/Feb/2024 19:43:11] "[31m[1mGET /login HTTP/1.1[0m" 405 -
+2024-02-19 19:43:37,809 - INFO -  * Detected change in 'C:\\Users\\ssakth029\\Desktop\\Emp_checkin\\emp_checkin\\src\\data\\emp_checkin.py', reloading
+2024-02-19 19:43:37,825 - INFO -  * Restarting with stat
+2024-02-19 19:43:38,069 - WARNING -  * Debugger is active!
+2024-02-19 19:43:38,081 - INFO -  * Debugger PIN: 110-433-334
+2024-02-19 19:43:42,105 - INFO -  * Detected change in 'C:\\Users\\ssakth029\\Desktop\\Emp_checkin\\emp_checkin\\src\\data\\emp_checkin.py', reloading
+2024-02-19 19:43:42,137 - INFO -  * Restarting with stat
+2024-02-19 19:43:42,363 - WARNING -  * Debugger is active!
+2024-02-19 19:43:42,363 - INFO -  * Debugger PIN: 110-433-334
+2024-02-19 19:43:43,414 - INFO -  * Detected change in 'C:\\Users\\ssakth029\\Desktop\\Emp_checkin\\emp_checkin\\src\\data\\emp_checkin.py', reloading
+2024-02-19 19:43:43,430 - INFO -  * Restarting with stat
+2024-02-19 19:43:43,673 - WARNING -  * Debugger is active!
+2024-02-19 19:43:43,678 - INFO -  * Debugger PIN: 110-433-334
+2024-02-19 19:43:45,642 - INFO - User harini logged in.
+2024-02-19 19:43:45,643 - INFO - 127.0.0.1 - - [19/Feb/2024 19:43:45] "GET /login HTTP/1.1" 200 -
+2024-02-19 19:43:45,744 - INFO - User harini logged in.
+2024-02-19 19:43:45,744 - INFO - 127.0.0.1 - - [19/Feb/2024 19:43:45] "GET /login HTTP/1.1" 200 -
+2024-02-19 19:43:53,754 - INFO -  * Detected change in 'C:\\Users\\ssakth029\\Desktop\\Emp_checkin\\emp_checkin\\src\\data\\emp_checkin.py', reloading
+2024-02-19 19:43:53,788 - INFO -  * Restarting with stat
+2024-02-19 19:43:54,021 - WARNING -  * Debugger is active!
+2024-02-19 19:43:54,034 - INFO -  * Debugger PIN: 110-433-334
+2024-02-19 19:43:55,374 - INFO - User pooja logged in.
+2024-02-19 19:43:55,375 - INFO - 127.0.0.1 - - [19/Feb/2024 19:43:55] "GET /login HTTP/1.1" 200 -
+2024-02-19 20:27:04,326 - INFO -  * Detected change in 'C:\\Users\\ssakth029\\Desktop\\Emp_checkin\\emp_checkin\\src\\data\\emp_checkin.py', reloading
+2024-02-19 20:27:04,362 - INFO -  * Restarting with stat
+2024-02-19 20:27:04,780 - WARNING -  * Debugger is active!
+2024-02-19 20:27:04,786 - INFO -  * Debugger PIN: 110-433-334
+2024-02-19 20:28:00,148 - INFO -  * Detected change in 'C:\\Users\\ssakth029\\Desktop\\Emp_checkin\\emp_checkin\\src\\data\\emp_checkin.py', reloading
+2024-02-19 20:28:00,180 - INFO -  * Restarting with stat
+2024-02-19 20:28:00,490 - WARNING -  * Debugger is active!
+2024-02-19 20:28:00,498 - INFO -  * Debugger PIN: 110-433-334
+2024-02-19 20:28:03,534 - INFO -  * Detected change in 'C:\\Users\\ssakth029\\Desktop\\Emp_checkin\\emp_checkin\\src\\data\\emp_checkin.py', reloading
+2024-02-19 20:28:03,567 - INFO -  * Restarting with stat
+2024-02-19 20:28:03,942 - WARNING -  * Debugger is active!
+2024-02-19 20:28:03,950 - INFO -  * Debugger PIN: 110-433-334
+2024-02-19 20:28:12,078 - INFO -  * Detected change in 'C:\\Users\\ssakth029\\Desktop\\Emp_checkin\\emp_checkin\\src\\data\\emp_checkin.py', reloading
+2024-02-19 20:28:12,103 - INFO -  * Restarting with stat
+2024-02-19 20:28:12,432 - WARNING -  * Debugger is active!
+2024-02-19 20:28:12,432 - INFO -  * Debugger PIN: 110-433-334
+2024-02-19 20:28:41,385 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-02-19 20:28:41,385 - INFO - [33mPress CTRL+C to quit[0m
+2024-02-19 20:28:41,396 - INFO -  * Restarting with stat
+2024-02-19 20:28:41,696 - WARNING -  * Debugger is active!
+2024-02-19 20:28:41,696 - INFO -  * Debugger PIN: 110-433-334
+2024-02-19 20:28:56,460 - INFO - 127.0.0.1 - - [19/Feb/2024 20:28:56] "[33mOPTIONS /login/login HTTP/1.1[0m" 404 -
+2024-02-19 20:31:08,415 - INFO - 127.0.0.1 - - [19/Feb/2024 20:31:08] "[33mOPTIONS /login/login HTTP/1.1[0m" 404 -
+2024-02-19 20:34:59,020 - INFO - 127.0.0.1 - - [19/Feb/2024 20:34:59] "[31m[1mGET /login HTTP/1.1[0m" 405 -
+2024-02-19 20:35:10,826 - INFO - 127.0.0.1 - - [19/Feb/2024 20:35:10] "[31m[1mGET /login HTTP/1.1[0m" 405 -
+2024-02-19 20:48:54,027 - INFO -  * Detected change in 'C:\\Users\\ssakth029\\Desktop\\Emp_checkin\\emp_checkin\\src\\data\\emp_checkin.py', reloading
+2024-02-19 20:48:54,058 - INFO -  * Restarting with stat
+2024-02-19 20:48:54,411 - WARNING -  * Debugger is active!
+2024-02-19 20:48:54,426 - INFO -  * Debugger PIN: 110-433-334
+2024-02-19 20:49:07,397 - INFO - 127.0.0.1 - - [19/Feb/2024 20:49:07] "[31m[1mGET /login HTTP/1.1[0m" 405 -
+2024-02-19 20:49:41,791 - INFO -  * Detected change in 'C:\\Users\\ssakth029\\Desktop\\Emp_checkin\\emp_checkin\\src\\data\\emp_checkin.py', reloading
+2024-02-19 20:49:41,821 - INFO -  * Restarting with stat
+2024-02-19 20:49:42,127 - WARNING -  * Debugger is active!
+2024-02-19 20:49:42,127 - INFO -  * Debugger PIN: 110-433-334
+2024-02-19 20:49:51,847 - INFO - 127.0.0.1 - - [19/Feb/2024 20:49:51] "[31m[1mGET /login HTTP/1.1[0m" 405 -
+2024-02-19 20:52:46,557 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-02-19 20:52:46,557 - INFO - [33mPress CTRL+C to quit[0m
+2024-02-19 20:52:46,557 - INFO -  * Restarting with stat
+2024-02-19 20:52:46,905 - WARNING -  * Debugger is active!
+2024-02-19 20:52:46,905 - INFO -  * Debugger PIN: 110-433-334
+2024-02-19 20:53:10,642 - INFO - 127.0.0.1 - - [19/Feb/2024 20:53:10] "[33mOPTIONS /login/login HTTP/1.1[0m" 404 -
+2024-02-19 20:53:14,473 - INFO - 127.0.0.1 - - [19/Feb/2024 20:53:14] "[33mOPTIONS /login/login HTTP/1.1[0m" 404 -
+2024-02-19 20:53:14,994 - INFO - 127.0.0.1 - - [19/Feb/2024 20:53:14] "[33mOPTIONS /login/login HTTP/1.1[0m" 404 -
+2024-02-19 20:53:22,363 - INFO - 127.0.0.1 - - [19/Feb/2024 20:53:22] "[33mOPTIONS /login/login HTTP/1.1[0m" 404 -
+2024-02-19 20:53:30,883 - INFO - 127.0.0.1 - - [19/Feb/2024 20:53:30] "[33mOPTIONS /login/login HTTP/1.1[0m" 404 -
+2024-02-19 20:53:53,065 - INFO - 127.0.0.1 - - [19/Feb/2024 20:53:53] "[33mGET / HTTP/1.1[0m" 404 -
+2024-02-19 20:53:53,430 - INFO - 127.0.0.1 - - [19/Feb/2024 20:53:53] "[33mGET / HTTP/1.1[0m" 404 -
+2024-02-19 20:53:59,618 - INFO - 127.0.0.1 - - [19/Feb/2024 20:53:59] "GET /logs HTTP/1.1" 200 -
+2024-02-19 20:54:04,707 - INFO - 127.0.0.1 - - [19/Feb/2024 20:54:04] "[31m[1mGET /login HTTP/1.1[0m" 405 -
+2024-02-19 20:54:05,033 - INFO - 127.0.0.1 - - [19/Feb/2024 20:54:05] "[31m[1mGET /login HTTP/1.1[0m" 405 -
+2024-02-19 20:54:13,265 - INFO - 127.0.0.1 - - [19/Feb/2024 20:54:13] "[31m[1mGET /login HTTP/1.1[0m" 405 -
+2024-02-19 20:54:15,350 - INFO - 127.0.0.1 - - [19/Feb/2024 20:54:15] "[31m[1mGET /login HTTP/1.1[0m" 405 -
+2024-02-19 20:54:27,699 - INFO - 127.0.0.1 - - [19/Feb/2024 20:54:27] "[31m[1mGET /login HTTP/1.1[0m" 405 -
+2024-02-19 20:54:27,888 - INFO - 127.0.0.1 - - [19/Feb/2024 20:54:27] "[31m[1mGET /login HTTP/1.1[0m" 405 -
+2024-02-19 20:54:50,190 - INFO - 127.0.0.1 - - [19/Feb/2024 20:54:50] "GET /logs HTTP/1.1" 200 -
+2024-02-19 20:55:33,841 - INFO -  * Detected change in 'C:\\Users\\ssakth029\\Desktop\\Emp_checkin\\emp_checkin\\src\\data\\emp_checkin.py', reloading
+2024-02-19 20:55:33,875 - INFO -  * Restarting with stat
+2024-02-19 20:55:34,190 - WARNING -  * Debugger is active!
+2024-02-19 20:55:34,203 - INFO -  * Debugger PIN: 110-433-334
+2024-02-19 20:55:39,603 - INFO - 127.0.0.1 - - [19/Feb/2024 20:55:39] "GET /logs HTTP/1.1" 200 -
+2024-02-19 20:55:39,736 - INFO - 127.0.0.1 - - [19/Feb/2024 20:55:39] "GET /logs HTTP/1.1" 200 -
+2024-02-19 20:55:42,795 - INFO - User pooja logged in.
+2024-02-19 20:55:42,795 - INFO - 127.0.0.1 - - [19/Feb/2024 20:55:42] "GET /login HTTP/1.1" 200 -
+2024-02-19 20:55:54,368 - INFO -  * Detected change in 'C:\\Users\\ssakth029\\Desktop\\Emp_checkin\\emp_checkin\\src\\data\\emp_checkin.py', reloading
+2024-02-19 20:55:54,394 - INFO -  * Restarting with stat
+2024-02-19 20:55:54,707 - WARNING -  * Debugger is active!
+2024-02-19 20:55:54,722 - INFO -  * Debugger PIN: 110-433-334
+2024-02-19 20:55:56,222 - INFO - User meena logged in.
+2024-02-19 20:55:56,222 - INFO - 127.0.0.1 - - [19/Feb/2024 20:55:56] "GET /login HTTP/1.1" 200 -
+2024-02-19 21:00:27,439 - INFO -  * Detected change in 'C:\\Users\\ssakth029\\Desktop\\Emp_checkin\\emp_checkin\\src\\data\\emp_checkin.py', reloading
+2024-02-19 21:00:27,479 - INFO -  * Restarting with stat
+2024-02-19 21:00:27,847 - WARNING -  * Debugger is active!
+2024-02-19 21:00:27,847 - INFO -  * Debugger PIN: 110-433-334
+2024-02-19 21:00:40,964 - INFO -  * Detected change in 'C:\\Users\\ssakth029\\Desktop\\Emp_checkin\\emp_checkin\\src\\data\\emp_checkin.py', reloading
+2024-02-19 21:00:40,996 - INFO -  * Restarting with stat
+2024-02-19 21:00:41,353 - WARNING -  * Debugger is active!
+2024-02-19 21:00:41,363 - INFO -  * Debugger PIN: 110-433-334
+2024-02-19 21:00:47,412 - INFO -  * Detected change in 'C:\\Users\\ssakth029\\Desktop\\Emp_checkin\\emp_checkin\\src\\data\\emp_checkin.py', reloading
+2024-02-19 21:00:47,439 - INFO -  * Restarting with stat
+2024-02-19 21:00:47,800 - WARNING -  * Debugger is active!
+2024-02-19 21:00:47,800 - INFO -  * Debugger PIN: 110-433-334
+2024-02-19 21:00:54,868 - INFO -  * Detected change in 'C:\\Users\\ssakth029\\Desktop\\Emp_checkin\\emp_checkin\\src\\data\\emp_checkin.py', reloading
+2024-02-19 21:00:54,895 - INFO -  * Restarting with stat
+2024-02-19 21:00:55,216 - WARNING -  * Debugger is active!
+2024-02-19 21:00:55,216 - INFO -  * Debugger PIN: 110-433-334
+2024-02-19 21:01:00,278 - INFO -  * Detected change in 'C:\\Users\\ssakth029\\Desktop\\Emp_checkin\\emp_checkin\\src\\data\\emp_checkin.py', reloading
+2024-02-19 21:01:00,294 - INFO -  * Restarting with stat
+2024-02-19 21:01:00,666 - WARNING -  * Debugger is active!
+2024-02-19 21:01:00,666 - INFO -  * Debugger PIN: 110-433-334
+2024-02-19 21:01:06,718 - INFO -  * Detected change in 'C:\\Users\\ssakth029\\Desktop\\Emp_checkin\\emp_checkin\\src\\data\\emp_checkin.py', reloading
+2024-02-19 21:01:06,742 - INFO -  * Restarting with stat
+2024-02-19 21:01:07,062 - WARNING -  * Debugger is active!
+2024-02-19 21:01:07,070 - INFO -  * Debugger PIN: 110-433-334
+2024-02-19 21:01:08,096 - INFO -  * Detected change in 'C:\\Users\\ssakth029\\Desktop\\Emp_checkin\\emp_checkin\\src\\data\\emp_checkin.py', reloading
+2024-02-19 21:01:08,128 - INFO -  * Restarting with stat
+2024-02-19 21:01:08,438 - WARNING -  * Debugger is active!
+2024-02-19 21:01:08,454 - INFO -  * Debugger PIN: 110-433-334
+2024-02-19 21:01:13,499 - INFO -  * Detected change in 'C:\\Users\\ssakth029\\Desktop\\Emp_checkin\\emp_checkin\\src\\data\\emp_checkin.py', reloading
+2024-02-19 21:01:13,534 - INFO -  * Restarting with stat
+2024-02-19 21:01:13,860 - WARNING -  * Debugger is active!
+2024-02-19 21:01:13,860 - INFO -  * Debugger PIN: 110-433-334
+2024-02-19 21:01:21,924 - INFO -  * Detected change in 'C:\\Users\\ssakth029\\Desktop\\Emp_checkin\\emp_checkin\\src\\data\\emp_checkin.py', reloading
+2024-02-19 21:01:21,972 - INFO -  * Restarting with stat
+2024-02-19 21:01:22,294 - WARNING -  * Debugger is active!
+2024-02-19 21:01:22,294 - INFO -  * Debugger PIN: 110-433-334
+2024-02-19 21:03:14,285 - INFO - 127.0.0.1 - - [19/Feb/2024 21:03:14] "[31m[1mGET /login HTTP/1.1[0m" 405 -
+2024-02-19 21:03:15,044 - INFO - 127.0.0.1 - - [19/Feb/2024 21:03:15] "[31m[1mGET /login HTTP/1.1[0m" 405 -
+2024-02-19 21:04:05,223 - INFO -  * Detected change in 'C:\\Users\\ssakth029\\Desktop\\Emp_checkin\\emp_checkin\\src\\data\\emp_checkin.py', reloading
+2024-02-19 21:04:05,246 - INFO -  * Restarting with stat
+2024-02-19 21:04:05,584 - WARNING -  * Debugger is active!
+2024-02-19 21:04:05,593 - INFO -  * Debugger PIN: 110-433-334
+2024-02-19 21:04:09,099 - INFO - 127.0.0.1 - - [19/Feb/2024 21:04:09] "[31m[1mGET /login HTTP/1.1[0m" 415 -
+2024-02-19 21:04:09,330 - INFO - 127.0.0.1 - - [19/Feb/2024 21:04:09] "[31m[1mGET /login HTTP/1.1[0m" 415 -
+2024-02-19 21:04:09,909 - INFO - 127.0.0.1 - - [19/Feb/2024 21:04:09] "[31m[1mGET /login HTTP/1.1[0m" 415 -
+2024-02-19 21:06:16,018 - INFO - 127.0.0.1 - - [19/Feb/2024 21:06:16] "[31m[1mGET /login HTTP/1.1[0m" 415 -
+2024-02-19 21:06:16,237 - INFO - 127.0.0.1 - - [19/Feb/2024 21:06:16] "[31m[1mGET /login HTTP/1.1[0m" 415 -
+2024-02-19 21:06:16,445 - INFO - 127.0.0.1 - - [19/Feb/2024 21:06:16] "[31m[1mGET /login HTTP/1.1[0m" 415 -
+2024-02-19 21:06:16,670 - INFO - 127.0.0.1 - - [19/Feb/2024 21:06:16] "[31m[1mGET /login HTTP/1.1[0m" 415 -
+2024-02-19 21:06:16,868 - INFO - 127.0.0.1 - - [19/Feb/2024 21:06:16] "[31m[1mGET /login HTTP/1.1[0m" 415 -
+2024-02-19 21:06:56,353 - INFO - 127.0.0.1 - - [19/Feb/2024 21:06:56] "[31m[1mGET /login HTTP/1.1[0m" 415 -
+2024-02-19 21:06:56,554 - INFO - 127.0.0.1 - - [19/Feb/2024 21:06:56] "[31m[1mGET /login HTTP/1.1[0m" 415 -
+2024-02-19 21:06:56,730 - INFO - 127.0.0.1 - - [19/Feb/2024 21:06:56] "[31m[1mGET /login HTTP/1.1[0m" 415 -
+2024-02-19 21:06:56,898 - INFO - 127.0.0.1 - - [19/Feb/2024 21:06:56] "[31m[1mGET /login HTTP/1.1[0m" 415 -
+2024-02-19 21:07:30,894 - INFO - 127.0.0.1 - - [19/Feb/2024 21:07:30] "[33mOPTIONS / HTTP/1.1[0m" 404 -
+2024-02-19 21:07:31,978 - INFO - 127.0.0.1 - - [19/Feb/2024 21:07:31] "[33mOPTIONS / HTTP/1.1[0m" 404 -
+2024-02-19 21:07:45,898 - INFO - 127.0.0.1 - - [19/Feb/2024 21:07:45] "[33mOPTIONS / HTTP/1.1[0m" 404 -
+2024-02-19 21:07:46,109 - INFO - 127.0.0.1 - - [19/Feb/2024 21:07:46] "[33mOPTIONS / HTTP/1.1[0m" 404 -
+2024-02-19 21:07:57,028 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-02-19 21:07:57,028 - INFO - [33mPress CTRL+C to quit[0m
+2024-02-19 21:07:57,028 - INFO -  * Restarting with stat
+2024-02-19 21:07:57,379 - WARNING -  * Debugger is active!
+2024-02-19 21:07:57,379 - INFO -  * Debugger PIN: 110-433-334
+2024-02-19 21:08:03,052 - INFO - 127.0.0.1 - - [19/Feb/2024 21:08:03] "[31m[1mGET /login HTTP/1.1[0m" 415 -
+2024-02-19 21:08:03,235 - INFO - 127.0.0.1 - - [19/Feb/2024 21:08:03] "[31m[1mGET /login HTTP/1.1[0m" 415 -
+2024-02-19 21:08:03,419 - INFO - 127.0.0.1 - - [19/Feb/2024 21:08:03] "[31m[1mGET /login HTTP/1.1[0m" 415 -
+2024-02-19 21:08:03,586 - INFO - 127.0.0.1 - - [19/Feb/2024 21:08:03] "[31m[1mGET /login HTTP/1.1[0m" 415 -
+2024-02-19 21:08:07,418 - INFO - 127.0.0.1 - - [19/Feb/2024 21:08:07] "GET /logs HTTP/1.1" 200 -
+2024-02-19 21:08:10,827 - INFO - 127.0.0.1 - - [19/Feb/2024 21:08:10] "[31m[1mGET /login HTTP/1.1[0m" 415 -
+2024-02-19 21:08:11,361 - INFO - 127.0.0.1 - - [19/Feb/2024 21:08:11] "[31m[1mGET /login HTTP/1.1[0m" 415 -
+2024-02-19 21:11:59,246 - INFO - 127.0.0.1 - - [19/Feb/2024 21:11:59] "[31m[1mGET /login HTTP/1.1[0m" 415 -
+2024-02-19 21:11:59,467 - INFO - 127.0.0.1 - - [19/Feb/2024 21:11:59] "[31m[1mGET /login HTTP/1.1[0m" 415 -
+2024-02-19 21:11:59,664 - INFO - 127.0.0.1 - - [19/Feb/2024 21:11:59] "[31m[1mGET /login HTTP/1.1[0m" 415 -
+2024-02-19 21:13:11,937 - INFO - 127.0.0.1 - - [19/Feb/2024 21:13:11] "[31m[1mGET /login HTTP/1.1[0m" 415 -
+2024-02-19 21:13:36,776 - INFO -  * Detected change in 'C:\\Users\\ssakth029\\Desktop\\Emp_checkin\\emp_checkin\\src\\data\\emp_checkin.py', reloading
+2024-02-19 21:13:36,818 - INFO -  * Restarting with stat
+2024-02-19 21:13:37,210 - WARNING -  * Debugger is active!
+2024-02-19 21:13:37,228 - INFO -  * Debugger PIN: 110-433-334
+2024-02-19 21:13:42,312 - INFO -  * Detected change in 'C:\\Users\\ssakth029\\Desktop\\Emp_checkin\\emp_checkin\\src\\data\\emp_checkin.py', reloading
+2024-02-19 21:13:42,347 - INFO -  * Restarting with stat
+2024-02-19 21:13:42,677 - WARNING -  * Debugger is active!
+2024-02-19 21:13:42,677 - INFO -  * Debugger PIN: 110-433-334
+2024-02-19 21:13:48,633 - INFO - 127.0.0.1 - - [19/Feb/2024 21:13:48] "[31m[1mGET /login HTTP/1.1[0m" 405 -
+2024-02-19 21:14:01,799 - INFO -  * Detected change in 'C:\\Users\\ssakth029\\Desktop\\Emp_checkin\\emp_checkin\\src\\data\\emp_checkin.py', reloading
+2024-02-19 21:14:01,844 - INFO -  * Restarting with stat
+2024-02-19 21:14:02,215 - WARNING -  * Debugger is active!
+2024-02-19 21:14:02,220 - INFO -  * Debugger PIN: 110-433-334
+2024-02-19 21:14:03,240 - INFO -  * Detected change in 'C:\\Users\\ssakth029\\Desktop\\Emp_checkin\\emp_checkin\\src\\data\\emp_checkin.py', reloading
+2024-02-19 21:14:03,271 - INFO -  * Restarting with stat
+2024-02-19 21:14:03,615 - WARNING -  * Debugger is active!
+2024-02-19 21:14:03,615 - INFO -  * Debugger PIN: 110-433-334
+2024-02-19 21:14:08,095 - INFO - 127.0.0.1 - - [19/Feb/2024 21:14:08] "[31m[1mGET /login HTTP/1.1[0m" 415 -
+2024-02-19 21:17:54,759 - INFO - 127.0.0.1 - - [19/Feb/2024 21:17:54] "[31m[1mGET /login HTTP/1.1[0m" 415 -
+2024-02-19 21:17:55,039 - INFO - 127.0.0.1 - - [19/Feb/2024 21:17:55] "[31m[1mGET /login HTTP/1.1[0m" 415 -
+2024-02-19 21:17:55,434 - INFO - 127.0.0.1 - - [19/Feb/2024 21:17:55] "[31m[1mGET /login HTTP/1.1[0m" 415 -
+2024-02-19 21:17:55,706 - INFO - 127.0.0.1 - - [19/Feb/2024 21:17:55] "[31m[1mGET /login HTTP/1.1[0m" 415 -
+2024-02-19 21:24:26,872 - INFO -  * Detected change in 'C:\\Users\\ssakth029\\Desktop\\Emp_checkin\\emp_checkin\\src\\data\\emp_checkin.py', reloading
+2024-02-19 21:24:26,893 - INFO -  * Restarting with stat
+2024-02-19 21:24:27,267 - WARNING -  * Debugger is active!
+2024-02-19 21:24:27,278 - INFO -  * Debugger PIN: 110-433-334
+2024-02-19 21:24:28,295 - INFO -  * Detected change in 'C:\\Users\\ssakth029\\Desktop\\Emp_checkin\\emp_checkin\\src\\data\\emp_checkin.py', reloading
+2024-02-19 21:24:28,329 - INFO -  * Restarting with stat
+2024-02-19 21:24:28,665 - WARNING -  * Debugger is active!
+2024-02-19 21:24:28,666 - INFO -  * Debugger PIN: 110-433-334
+2024-02-19 21:24:29,689 - INFO -  * Detected change in 'C:\\Users\\ssakth029\\Desktop\\Emp_checkin\\emp_checkin\\src\\data\\emp_checkin.py', reloading
+2024-02-19 21:24:29,724 - INFO -  * Restarting with stat
+2024-02-19 21:24:30,081 - WARNING -  * Debugger is active!
+2024-02-19 21:24:30,099 - INFO -  * Debugger PIN: 110-433-334
+2024-02-19 21:24:33,020 - INFO - 127.0.0.1 - - [19/Feb/2024 21:24:33] "[31m[1mGET /login HTTP/1.1[0m" 405 -
+2024-02-19 21:24:33,235 - INFO - 127.0.0.1 - - [19/Feb/2024 21:24:33] "[31m[1mGET /login HTTP/1.1[0m" 405 -
+2024-02-19 21:24:33,389 - INFO - 127.0.0.1 - - [19/Feb/2024 21:24:33] "[31m[1mGET /login HTTP/1.1[0m" 405 -
+2024-02-19 22:33:17,217 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-02-19 22:33:17,217 - INFO - [33mPress CTRL+C to quit[0m
+2024-02-19 22:33:17,217 - INFO -  * Restarting with stat
+2024-02-19 22:33:17,533 - WARNING -  * Debugger is active!
+2024-02-19 22:33:17,533 - INFO -  * Debugger PIN: 110-433-334
+2024-02-19 22:35:47,816 - INFO - 127.0.0.1 - - [19/Feb/2024 22:35:47] "[31m[1mGET /login HTTP/1.1[0m" 405 -
+2024-02-19 22:35:48,599 - INFO - 127.0.0.1 - - [19/Feb/2024 22:35:48] "[31m[1mGET /login HTTP/1.1[0m" 405 -
+2024-02-19 22:35:48,816 - INFO - 127.0.0.1 - - [19/Feb/2024 22:35:48] "[31m[1mGET /login HTTP/1.1[0m" 405 -
+2024-02-19 22:35:49,214 - INFO - 127.0.0.1 - - [19/Feb/2024 22:35:49] "[31m[1mGET /login HTTP/1.1[0m" 405 -
+2024-02-19 22:36:09,713 - INFO - 127.0.0.1 - - [19/Feb/2024 22:36:09] "GET /logs HTTP/1.1" 200 -
+2024-02-19 22:36:13,969 - INFO - 127.0.0.1 - - [19/Feb/2024 22:36:13] "[31m[1mGET /login HTTP/1.1[0m" 405 -
+2024-02-19 22:36:14,700 - INFO - 127.0.0.1 - - [19/Feb/2024 22:36:14] "[31m[1mGET /login HTTP/1.1[0m" 405 -
+2024-02-19 22:37:01,719 - INFO -  * Detected change in 'C:\\Users\\ssakth029\\Desktop\\Emp_checkin\\emp_checkin\\src\\data\\emp_checkin.py', reloading
+2024-02-19 22:37:01,761 - INFO -  * Restarting with stat
+2024-02-19 22:37:02,110 - WARNING -  * Debugger is active!
+2024-02-19 22:37:02,126 - INFO -  * Debugger PIN: 110-433-334
+2024-02-19 22:37:03,144 - INFO -  * Detected change in 'C:\\Users\\ssakth029\\Desktop\\Emp_checkin\\emp_checkin\\src\\data\\emp_checkin.py', reloading
+2024-02-19 22:37:03,173 - INFO -  * Restarting with stat
+2024-02-19 22:37:03,500 - WARNING -  * Debugger is active!
+2024-02-19 22:37:03,509 - INFO -  * Debugger PIN: 110-433-334
+2024-02-19 22:37:09,744 - INFO - 127.0.0.1 - - [19/Feb/2024 22:37:09] "[31m[1mGET /login HTTP/1.1[0m" 415 -
+2024-02-20 09:58:58,581 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-02-20 09:58:58,581 - INFO - [33mPress CTRL+C to quit[0m
+2024-02-20 09:58:58,581 - INFO -  * Restarting with stat
+2024-02-20 09:58:58,894 - WARNING -  * Debugger is active!
+2024-02-20 09:58:58,898 - INFO -  * Debugger PIN: 110-433-334
+2024-02-20 10:00:06,123 - INFO -  * Detected change in 'C:\\Users\\ssakth029\\Desktop\\Emp_checkin\\emp_checkin\\src\\data\\emp_checkin.py', reloading
+2024-02-20 10:00:06,179 - INFO -  * Restarting with stat
+2024-02-20 10:00:06,559 - WARNING -  * Debugger is active!
+2024-02-20 10:00:06,567 - INFO -  * Debugger PIN: 110-433-334
+2024-02-20 10:00:35,484 - INFO - 127.0.0.1 - - [20/Feb/2024 10:00:35] "[33mGET / HTTP/1.1[0m" 404 -
+2024-02-20 10:00:35,797 - INFO - 127.0.0.1 - - [20/Feb/2024 10:00:35] "[33mGET / HTTP/1.1[0m" 404 -
+2024-02-20 10:00:43,525 - INFO - 127.0.0.1 - - [20/Feb/2024 10:00:43] "GET /logs HTTP/1.1" 200 -
+2024-02-20 10:00:47,952 - INFO - 127.0.0.1 - - [20/Feb/2024 10:00:47] "[31m[1mGET /login HTTP/1.1[0m" 415 -
+2024-02-20 10:00:48,383 - INFO - 127.0.0.1 - - [20/Feb/2024 10:00:48] "[31m[1mGET /login HTTP/1.1[0m" 415 -
+2024-02-20 10:03:54,816 - INFO -  * Detected change in 'C:\\Users\\ssakth029\\Desktop\\Emp_checkin\\emp_checkin\\src\\data\\emp_checkin.py', reloading
+2024-02-20 10:03:54,838 - INFO -  * Restarting with stat
+2024-02-20 10:03:55,177 - WARNING -  * Debugger is active!
+2024-02-20 10:03:55,193 - INFO -  * Debugger PIN: 110-433-334
+2024-02-20 10:03:57,244 - INFO -  * Detected change in 'C:\\Users\\ssakth029\\Desktop\\Emp_checkin\\emp_checkin\\src\\data\\emp_checkin.py', reloading
+2024-02-20 10:03:57,286 - INFO -  * Restarting with stat
+2024-02-20 10:03:57,642 - WARNING -  * Debugger is active!
+2024-02-20 10:03:57,654 - INFO -  * Debugger PIN: 110-433-334
+2024-02-20 10:04:04,491 - INFO - 127.0.0.1 - - [20/Feb/2024 10:04:04] "[31m[1mGET /login HTTP/1.1[0m" 405 -
+2024-02-20 10:04:04,738 - INFO - 127.0.0.1 - - [20/Feb/2024 10:04:04] "[31m[1mGET /login HTTP/1.1[0m" 405 -
+2024-02-20 10:05:41,478 - INFO - 127.0.0.1 - - [20/Feb/2024 10:05:41] "[31m[1mGET /login HTTP/1.1[0m" 405 -
+2024-02-20 10:05:41,786 - INFO - 127.0.0.1 - - [20/Feb/2024 10:05:41] "[31m[1mGET /login HTTP/1.1[0m" 405 -
+2024-02-20 10:05:42,128 - INFO - 127.0.0.1 - - [20/Feb/2024 10:05:42] "[31m[1mGET /login HTTP/1.1[0m" 405 -
+2024-02-20 10:10:03,513 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-02-20 10:10:03,513 - INFO - [33mPress CTRL+C to quit[0m
+2024-02-20 10:10:03,513 - INFO -  * Restarting with stat
+2024-02-20 10:10:03,859 - WARNING -  * Debugger is active!
+2024-02-20 10:10:03,859 - INFO -  * Debugger PIN: 110-433-334
+2024-02-20 10:10:09,609 - INFO - 127.0.0.1 - - [20/Feb/2024 10:10:09] "[31m[1mGET /login HTTP/1.1[0m" 405 -
+2024-02-20 10:10:09,805 - INFO - 127.0.0.1 - - [20/Feb/2024 10:10:09] "[31m[1mGET /login HTTP/1.1[0m" 405 -
+2024-02-20 10:10:09,981 - INFO - 127.0.0.1 - - [20/Feb/2024 10:10:09] "[31m[1mGET /login HTTP/1.1[0m" 405 -
+2024-02-20 10:10:10,177 - INFO - 127.0.0.1 - - [20/Feb/2024 10:10:10] "[31m[1mGET /login HTTP/1.1[0m" 405 -
+2024-02-20 10:10:10,358 - INFO - 127.0.0.1 - - [20/Feb/2024 10:10:10] "[31m[1mGET /login HTTP/1.1[0m" 405 -
+2024-02-20 10:10:11,614 - INFO - 127.0.0.1 - - [20/Feb/2024 10:10:11] "[31m[1mGET /login HTTP/1.1[0m" 405 -
+2024-02-20 10:10:11,790 - INFO - 127.0.0.1 - - [20/Feb/2024 10:10:11] "[31m[1mGET /login HTTP/1.1[0m" 405 -
+2024-02-20 10:10:11,925 - INFO - 127.0.0.1 - - [20/Feb/2024 10:10:11] "[31m[1mGET /login HTTP/1.1[0m" 405 -
+2024-02-20 10:12:57,542 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-02-20 10:12:57,542 - INFO - [33mPress CTRL+C to quit[0m
+2024-02-20 10:12:57,550 - INFO -  * Restarting with stat
+2024-02-20 10:12:57,869 - WARNING -  * Debugger is active!
+2024-02-20 10:12:57,869 - INFO -  * Debugger PIN: 110-433-334
+2024-02-20 10:13:02,477 - INFO - 127.0.0.1 - - [20/Feb/2024 10:13:02] "[31m[1mGET /login HTTP/1.1[0m" 405 -
+2024-02-20 10:13:02,655 - INFO - 127.0.0.1 - - [20/Feb/2024 10:13:02] "[31m[1mGET /login HTTP/1.1[0m" 405 -
+2024-02-20 10:13:02,872 - INFO - 127.0.0.1 - - [20/Feb/2024 10:13:02] "[31m[1mGET /login HTTP/1.1[0m" 405 -
+2024-02-20 10:13:05,705 - INFO - 127.0.0.1 - - [20/Feb/2024 10:13:05] "GET /logs HTTP/1.1" 200 -
+2024-02-20 10:13:10,019 - INFO - 127.0.0.1 - - [20/Feb/2024 10:13:10] "[31m[1mGET /login HTTP/1.1[0m" 405 -
+2024-02-20 10:13:10,455 - INFO - 127.0.0.1 - - [20/Feb/2024 10:13:10] "[31m[1mGET /login HTTP/1.1[0m" 405 -
+2024-02-20 10:13:29,033 - INFO -  * Detected change in 'C:\\Users\\ssakth029\\Desktop\\Emp_checkin\\emp_checkin\\src\\data\\emp_checkin.py', reloading
+2024-02-20 10:13:29,049 - INFO -  * Restarting with stat
+2024-02-20 10:13:29,388 - WARNING -  * Debugger is active!
+2024-02-20 10:13:29,388 - INFO -  * Debugger PIN: 110-433-334
+2024-02-20 10:13:30,867 - INFO - 127.0.0.1 - - [20/Feb/2024 10:13:30] "[31m[1mGET /login HTTP/1.1[0m" 415 -
+2024-02-20 10:13:31,100 - INFO - 127.0.0.1 - - [20/Feb/2024 10:13:31] "[31m[1mGET /login HTTP/1.1[0m" 415 -
+2024-02-20 10:13:36,326 - INFO - 127.0.0.1 - - [20/Feb/2024 10:13:36] "[31m[1mGET /login HTTP/1.1[0m" 415 -
+2024-02-20 10:13:36,489 - INFO - 127.0.0.1 - - [20/Feb/2024 10:13:36] "[31m[1mGET /login HTTP/1.1[0m" 415 -
+2024-02-20 10:15:41,692 - INFO - 127.0.0.1 - - [20/Feb/2024 10:15:41] "[31m[1mGET /login HTTP/1.1[0m" 415 -
+2024-02-20 10:15:41,923 - INFO - 127.0.0.1 - - [20/Feb/2024 10:15:41] "[31m[1mGET /login HTTP/1.1[0m" 415 -
+2024-02-20 10:23:35,527 - INFO - 127.0.0.1 - - [20/Feb/2024 10:23:35] "[31m[1mGET /login HTTP/1.1[0m" 415 -
+2024-02-20 10:27:00,125 - INFO -  * Detected change in 'C:\\Users\\ssakth029\\Desktop\\Emp_checkin\\emp_checkin\\src\\data\\emp_checkin.py', reloading
+2024-02-20 10:27:00,148 - INFO -  * Restarting with stat
+2024-02-20 10:27:00,498 - WARNING -  * Debugger is active!
+2024-02-20 10:27:00,498 - INFO -  * Debugger PIN: 110-433-334
+2024-02-20 10:27:18,294 - INFO - 127.0.0.1 - - [20/Feb/2024 10:27:18] "[31m[1mGET /login HTTP/1.1[0m" 415 -
+2024-02-20 10:27:18,520 - INFO - 127.0.0.1 - - [20/Feb/2024 10:27:18] "[31m[1mGET /login HTTP/1.1[0m" 415 -
+2024-02-20 10:27:18,798 - INFO - 127.0.0.1 - - [20/Feb/2024 10:27:18] "[31m[1mGET /login HTTP/1.1[0m" 415 -
+2024-02-20 10:27:25,649 - INFO -  * Detected change in 'C:\\Users\\ssakth029\\Desktop\\Emp_checkin\\emp_checkin\\src\\data\\emp_checkin.py', reloading
+2024-02-20 10:27:25,679 - INFO -  * Restarting with stat
+2024-02-20 10:27:25,997 - WARNING -  * Debugger is active!
+2024-02-20 10:27:26,006 - INFO -  * Debugger PIN: 110-433-334
+2024-02-20 10:27:42,047 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-02-20 10:27:42,047 - INFO - [33mPress CTRL+C to quit[0m
+2024-02-20 10:27:42,047 - INFO -  * Restarting with stat
+2024-02-20 10:27:42,391 - WARNING -  * Debugger is active!
+2024-02-20 10:27:42,391 - INFO -  * Debugger PIN: 110-433-334
+2024-02-20 10:28:18,013 - INFO - 127.0.0.1 - - [20/Feb/2024 10:28:18] "[33mGET / HTTP/1.1[0m" 404 -
+2024-02-20 10:28:18,316 - INFO - 127.0.0.1 - - [20/Feb/2024 10:28:18] "[33mGET / HTTP/1.1[0m" 404 -
+2024-02-20 10:28:25,783 - INFO - 127.0.0.1 - - [20/Feb/2024 10:28:25] "GET /logs HTTP/1.1" 200 -
+2024-02-20 10:28:33,703 - INFO - 127.0.0.1 - - [20/Feb/2024 10:28:33] "[31m[1mGET /login HTTP/1.1[0m" 405 -
+2024-02-20 10:28:34,131 - INFO - 127.0.0.1 - - [20/Feb/2024 10:28:34] "[31m[1mGET /login HTTP/1.1[0m" 405 -
+2024-02-20 10:28:44,715 - INFO -  * Detected change in 'C:\\Users\\ssakth029\\Desktop\\Emp_checkin\\emp_checkin\\src\\data\\emp_checkin.py', reloading
+2024-02-20 10:28:44,745 - INFO -  * Restarting with stat
+2024-02-20 10:28:45,095 - WARNING -  * Debugger is active!
+2024-02-20 10:28:45,112 - INFO -  * Debugger PIN: 110-433-334
+2024-02-20 10:28:45,130 - INFO - 127.0.0.1 - - [20/Feb/2024 10:28:45] "[31m[1mGET /login HTTP/1.1[0m" 415 -
+2024-02-20 10:28:45,344 - INFO - 127.0.0.1 - - [20/Feb/2024 10:28:45] "[31m[1mGET /login HTTP/1.1[0m" 415 -
+2024-02-20 10:33:58,771 - INFO -  * Detected change in 'C:\\Users\\ssakth029\\Desktop\\Emp_checkin\\emp_checkin\\src\\data\\emp_checkin.py', reloading
+2024-02-20 10:33:58,804 - INFO -  * Restarting with stat
+2024-02-20 10:34:25,186 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-02-20 10:34:25,193 - INFO - [33mPress CTRL+C to quit[0m
+2024-02-20 10:34:25,194 - INFO -  * Restarting with stat
+2024-02-20 10:34:25,503 - WARNING -  * Debugger is active!
+2024-02-20 10:34:25,511 - INFO -  * Debugger PIN: 110-433-334
+2024-02-20 10:34:25,522 - INFO - 127.0.0.1 - - [20/Feb/2024 10:34:25] "[31m[1mGET /login HTTP/1.1[0m" 415 -
+2024-02-20 10:34:34,330 - INFO - 127.0.0.1 - - [20/Feb/2024 10:34:34] "[31m[1mGET /login HTTP/1.1[0m" 415 -
+2024-02-20 10:34:34,517 - INFO - 127.0.0.1 - - [20/Feb/2024 10:34:34] "[31m[1mGET /login HTTP/1.1[0m" 415 -
+2024-02-20 10:34:34,721 - INFO - 127.0.0.1 - - [20/Feb/2024 10:34:34] "[31m[1mGET /login HTTP/1.1[0m" 415 -
+2024-02-20 10:34:34,913 - INFO - 127.0.0.1 - - [20/Feb/2024 10:34:34] "[31m[1mGET /login HTTP/1.1[0m" 415 -
+2024-02-20 10:35:28,377 - INFO - 127.0.0.1 - - [20/Feb/2024 10:35:28] "[31m[1mGET /login HTTP/1.1[0m" 415 -
+2024-02-20 10:39:25,816 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-02-20 10:39:25,816 - INFO - [33mPress CTRL+C to quit[0m
+2024-02-20 10:39:25,816 - INFO -  * Restarting with stat
+2024-02-20 10:39:26,155 - WARNING -  * Debugger is active!
+2024-02-20 10:39:26,165 - INFO -  * Debugger PIN: 110-433-334
+2024-02-20 10:39:30,775 - INFO - 127.0.0.1 - - [20/Feb/2024 10:39:30] "[31m[1mGET /login HTTP/1.1[0m" 415 -
+2024-02-20 10:39:30,987 - INFO - 127.0.0.1 - - [20/Feb/2024 10:39:30] "[31m[1mGET /login HTTP/1.1[0m" 415 -
+2024-02-20 10:39:35,270 - INFO - 127.0.0.1 - - [20/Feb/2024 10:39:35] "[33mGET /log HTTP/1.1[0m" 404 -
+2024-02-20 10:39:38,325 - INFO - 127.0.0.1 - - [20/Feb/2024 10:39:38] "[33mGET /log HTTP/1.1[0m" 404 -
+2024-02-20 10:39:38,562 - INFO - 127.0.0.1 - - [20/Feb/2024 10:39:38] "[33mGET /log HTTP/1.1[0m" 404 -
+2024-02-20 10:39:51,558 - INFO - 127.0.0.1 - - [20/Feb/2024 10:39:51] "[33mGET / HTTP/1.1[0m" 404 -
+2024-02-20 10:39:51,978 - INFO - 127.0.0.1 - - [20/Feb/2024 10:39:51] "[33mGET / HTTP/1.1[0m" 404 -
+2024-02-20 10:39:54,724 - INFO - 127.0.0.1 - - [20/Feb/2024 10:39:54] "GET /logs HTTP/1.1" 200 -
+2024-02-20 10:39:59,266 - INFO - 127.0.0.1 - - [20/Feb/2024 10:39:59] "[31m[1mGET /login HTTP/1.1[0m" 415 -
+2024-02-20 10:39:59,773 - INFO - 127.0.0.1 - - [20/Feb/2024 10:39:59] "[31m[1mGET /login HTTP/1.1[0m" 415 -
+2024-02-20 10:44:34,226 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-02-20 10:44:34,226 - INFO - [33mPress CTRL+C to quit[0m
+2024-02-20 10:44:34,226 - INFO -  * Restarting with stat
+2024-02-20 10:44:34,569 - WARNING -  * Debugger is active!
+2024-02-20 10:44:34,569 - INFO -  * Debugger PIN: 110-433-334
+2024-02-20 10:44:40,005 - INFO - 127.0.0.1 - - [20/Feb/2024 10:44:40] "[31m[1mGET /login HTTP/1.1[0m" 415 -
+2024-02-20 10:44:40,194 - INFO - 127.0.0.1 - - [20/Feb/2024 10:44:40] "[31m[1mGET /login HTTP/1.1[0m" 415 -
+2024-02-20 10:44:40,379 - INFO - 127.0.0.1 - - [20/Feb/2024 10:44:40] "[31m[1mGET /login HTTP/1.1[0m" 415 -
+2024-02-20 10:44:40,546 - INFO - 127.0.0.1 - - [20/Feb/2024 10:44:40] "[31m[1mGET /login HTTP/1.1[0m" 415 -
+2024-02-20 10:44:40,740 - INFO - 127.0.0.1 - - [20/Feb/2024 10:44:40] "[31m[1mGET /login HTTP/1.1[0m" 415 -
+2024-02-20 10:44:40,962 - INFO - 127.0.0.1 - - [20/Feb/2024 10:44:40] "[31m[1mGET /login HTTP/1.1[0m" 415 -
+2024-02-20 10:44:56,942 - INFO - 127.0.0.1 - - [20/Feb/2024 10:44:56] "[33mGET / HTTP/1.1[0m" 404 -
+2024-02-20 10:44:58,822 - INFO - 127.0.0.1 - - [20/Feb/2024 10:44:58] "GET /logs HTTP/1.1" 200 -
+2024-02-20 10:45:01,908 - INFO - 127.0.0.1 - - [20/Feb/2024 10:45:01] "[31m[1mGET /login HTTP/1.1[0m" 415 -
+2024-02-20 10:45:02,359 - INFO - 127.0.0.1 - - [20/Feb/2024 10:45:02] "[31m[1mGET /login HTTP/1.1[0m" 415 -
+2024-02-20 10:45:33,522 - INFO - 127.0.0.1 - - [20/Feb/2024 10:45:33] "OPTIONS /login HTTP/1.1" 200 -
+2024-02-20 10:45:35,201 - INFO - 127.0.0.1 - - [20/Feb/2024 10:45:35] "OPTIONS /login HTTP/1.1" 200 -
+2024-02-20 10:45:35,605 - INFO - 127.0.0.1 - - [20/Feb/2024 10:45:35] "OPTIONS /login HTTP/1.1" 200 -
+2024-02-20 10:45:38,088 - INFO - 127.0.0.1 - - [20/Feb/2024 10:45:38] "OPTIONS /login HTTP/1.1" 200 -
+2024-02-20 10:45:40,072 - INFO - 127.0.0.1 - - [20/Feb/2024 10:45:40] "OPTIONS /login HTTP/1.1" 200 -
+2024-02-20 10:45:40,289 - INFO - 127.0.0.1 - - [20/Feb/2024 10:45:40] "OPTIONS /login HTTP/1.1" 200 -
+2024-02-20 10:45:46,741 - INFO - 127.0.0.1 - - [20/Feb/2024 10:45:46] "OPTIONS /login HTTP/1.1" 200 -
+2024-02-20 10:45:46,965 - INFO - 127.0.0.1 - - [20/Feb/2024 10:45:46] "OPTIONS /login HTTP/1.1" 200 -
+2024-02-20 10:45:53,653 - INFO - 127.0.0.1 - - [20/Feb/2024 10:45:53] "OPTIONS /login HTTP/1.1" 200 -
+2024-02-20 10:45:53,868 - INFO - 127.0.0.1 - - [20/Feb/2024 10:45:53] "OPTIONS /login HTTP/1.1" 200 -
+2024-02-20 10:45:57,287 - INFO - 127.0.0.1 - - [20/Feb/2024 10:45:57] "[31m[1mGET /login HTTP/1.1[0m" 415 -
+2024-02-20 10:45:57,463 - INFO - 127.0.0.1 - - [20/Feb/2024 10:45:57] "[31m[1mGET /login HTTP/1.1[0m" 415 -
+2024-02-20 10:50:27,406 - INFO - 127.0.0.1 - - [20/Feb/2024 10:50:27] "[31m[1mGET /login HTTP/1.1[0m" 415 -
+2024-02-20 10:51:14,141 - INFO - 127.0.0.1 - - [20/Feb/2024 10:51:14] "[31m[1mGET /login HTTP/1.1[0m" 400 -
+2024-02-20 10:52:58,654 - INFO - 127.0.0.1 - - [20/Feb/2024 10:52:58] "[31m[1mGET /login HTTP/1.1[0m" 400 -
+2024-02-20 10:53:00,068 - INFO - 127.0.0.1 - - [20/Feb/2024 10:53:00] "[31m[1mGET /login HTTP/1.1[0m" 400 -
+2024-02-20 10:53:36,072 - ERROR - Invalid username or password
+2024-02-20 10:53:36,072 - INFO - 127.0.0.1 - - [20/Feb/2024 10:53:36] "[31m[1mGET /login HTTP/1.1[0m" 401 -
+2024-02-20 10:53:42,362 - ERROR - Invalid username or password
+2024-02-20 10:53:42,362 - INFO - 127.0.0.1 - - [20/Feb/2024 10:53:42] "[31m[1mGET /login HTTP/1.1[0m" 401 -
+2024-02-20 10:53:49,579 - ERROR - Invalid username or password
+2024-02-20 10:53:49,579 - INFO - 127.0.0.1 - - [20/Feb/2024 10:53:49] "[31m[1mGET /login HTTP/1.1[0m" 401 -
+2024-02-20 10:54:06,071 - INFO - 127.0.0.1 - - [20/Feb/2024 10:54:06] "OPTIONS /login HTTP/1.1" 200 -
+2024-02-20 10:54:07,125 - INFO - 127.0.0.1 - - [20/Feb/2024 10:54:07] "OPTIONS /login HTTP/1.1" 200 -
+2024-02-20 10:54:07,347 - INFO - 127.0.0.1 - - [20/Feb/2024 10:54:07] "OPTIONS /login HTTP/1.1" 200 -
+2024-02-20 10:54:12,785 - INFO - 127.0.0.1 - - [20/Feb/2024 10:54:12] "OPTIONS /login HTTP/1.1" 200 -
+2024-02-20 10:54:12,992 - INFO - 127.0.0.1 - - [20/Feb/2024 10:54:12] "OPTIONS /login HTTP/1.1" 200 -
+2024-02-20 10:54:15,372 - ERROR - Invalid username or password
+2024-02-20 10:54:15,372 - INFO - 127.0.0.1 - - [20/Feb/2024 10:54:15] "[31m[1mGET /login HTTP/1.1[0m" 401 -
+2024-02-20 10:54:16,764 - ERROR - Invalid username or password
+2024-02-20 10:54:16,764 - INFO - 127.0.0.1 - - [20/Feb/2024 10:54:16] "[31m[1mGET /login HTTP/1.1[0m" 401 -
+2024-02-20 10:54:22,513 - ERROR - Invalid username or password
+2024-02-20 10:54:22,513 - INFO - 127.0.0.1 - - [20/Feb/2024 10:54:22] "[31m[1mGET /login HTTP/1.1[0m" 401 -
+2024-02-20 10:54:25,446 - ERROR - Invalid username or password
+2024-02-20 10:54:25,446 - INFO - 127.0.0.1 - - [20/Feb/2024 10:54:25] "[31m[1mGET /login HTTP/1.1[0m" 401 -
+2024-02-20 10:54:43,147 - INFO - 127.0.0.1 - - [20/Feb/2024 10:54:43] "[31m[1mGET /login HTTP/1.1[0m" 415 -
+2024-02-20 10:54:46,656 - INFO - 127.0.0.1 - - [20/Feb/2024 10:54:46] "[31m[1mGET /login HTTP/1.1[0m" 415 -
+2024-02-20 10:58:10,091 - ERROR - Invalid username or password
+2024-02-20 10:58:10,091 - INFO - 127.0.0.1 - - [20/Feb/2024 10:58:10] "[31m[1mGET /login HTTP/1.1[0m" 401 -
+2024-02-20 10:58:17,975 - ERROR - Invalid username or password
+2024-02-20 10:58:17,975 - INFO - 127.0.0.1 - - [20/Feb/2024 10:58:17] "[31m[1mGET /login HTTP/1.1[0m" 401 -
+2024-02-20 10:58:25,958 - INFO - 127.0.0.1 - - [20/Feb/2024 10:58:25] "[31m[1mGET /login HTTP/1.1[0m" 415 -
+2024-02-20 10:58:26,177 - INFO - 127.0.0.1 - - [20/Feb/2024 10:58:26] "[31m[1mGET /login HTTP/1.1[0m" 415 -
+2024-02-20 10:58:26,351 - INFO - 127.0.0.1 - - [20/Feb/2024 10:58:26] "[31m[1mGET /login HTTP/1.1[0m" 415 -
+2024-02-20 10:58:31,327 - INFO - 127.0.0.1 - - [20/Feb/2024 10:58:31] "GET /logs HTTP/1.1" 200 -
+2024-02-20 10:58:35,591 - INFO - 127.0.0.1 - - [20/Feb/2024 10:58:35] "[31m[1mGET /login HTTP/1.1[0m" 415 -
+2024-02-20 10:58:36,024 - INFO - 127.0.0.1 - - [20/Feb/2024 10:58:36] "[31m[1mGET /login HTTP/1.1[0m" 415 -
+2024-02-20 10:58:38,561 - INFO - 127.0.0.1 - - [20/Feb/2024 10:58:38] "[31m[1mGET /login HTTP/1.1[0m" 415 -
+2024-02-20 11:03:03,853 - INFO - 127.0.0.1 - - [20/Feb/2024 11:03:03] "[31m[1mGET /login HTTP/1.1[0m" 415 -
+2024-02-20 11:03:04,057 - INFO - 127.0.0.1 - - [20/Feb/2024 11:03:04] "[31m[1mGET /login HTTP/1.1[0m" 415 -
+2024-02-20 11:03:04,277 - INFO - 127.0.0.1 - - [20/Feb/2024 11:03:04] "[31m[1mGET /login HTTP/1.1[0m" 415 -
+2024-02-20 11:03:07,388 - INFO - 127.0.0.1 - - [20/Feb/2024 11:03:07] "[31m[1mGET /login HTTP/1.1[0m" 415 -
+2024-02-20 11:03:08,722 - INFO - 127.0.0.1 - - [20/Feb/2024 11:03:08] "[31m[1mGET /login HTTP/1.1[0m" 415 -
+2024-02-20 11:03:51,025 - INFO - 127.0.0.1 - - [20/Feb/2024 11:03:51] "OPTIONS /login HTTP/1.1" 200 -
+2024-02-20 11:03:51,800 - INFO - 127.0.0.1 - - [20/Feb/2024 11:03:51] "OPTIONS /login HTTP/1.1" 200 -
+2024-02-20 11:03:52,021 - INFO - 127.0.0.1 - - [20/Feb/2024 11:03:52] "OPTIONS /login HTTP/1.1" 200 -
+2024-02-20 11:03:57,766 - INFO - 127.0.0.1 - - [20/Feb/2024 11:03:57] "[31m[1mGET /login HTTP/1.1[0m" 415 -
+2024-02-20 11:03:57,959 - INFO - 127.0.0.1 - - [20/Feb/2024 11:03:57] "[31m[1mGET /login HTTP/1.1[0m" 415 -
+2024-02-20 11:04:21,663 - INFO -  * Detected change in 'C:\\Users\\ssakth029\\Desktop\\Emp_checkin\\emp_checkin\\src\\data\\emp_checkin.py', reloading
+2024-02-20 11:04:21,691 - INFO -  * Restarting with stat
+2024-02-20 11:04:22,059 - WARNING -  * Debugger is active!
+2024-02-20 11:04:22,062 - INFO -  * Debugger PIN: 110-433-334
+2024-02-20 11:04:33,131 - INFO -  * Detected change in 'C:\\Users\\ssakth029\\Desktop\\Emp_checkin\\emp_checkin\\src\\data\\emp_checkin.py', reloading
+2024-02-20 11:04:33,164 - INFO -  * Restarting with stat
+2024-02-20 11:04:33,484 - WARNING -  * Debugger is active!
+2024-02-20 11:04:33,500 - INFO -  * Debugger PIN: 110-433-334
+2024-02-20 11:04:35,521 - INFO -  * Detected change in 'C:\\Users\\ssakth029\\Desktop\\Emp_checkin\\emp_checkin\\src\\data\\emp_checkin.py', reloading
+2024-02-20 11:04:35,553 - INFO -  * Restarting with stat
+2024-02-20 11:04:35,862 - WARNING -  * Debugger is active!
+2024-02-20 11:04:35,878 - INFO -  * Debugger PIN: 110-433-334
+2024-02-20 11:06:14,543 - INFO -  * Detected change in 'C:\\Users\\ssakth029\\Desktop\\Emp_checkin\\emp_checkin\\src\\data\\emp_checkin.py', reloading
+2024-02-20 11:06:14,560 - INFO -  * Restarting with stat
+2024-02-20 11:06:31,931 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-02-20 11:06:31,931 - INFO - [33mPress CTRL+C to quit[0m
+2024-02-20 11:06:31,931 - INFO -  * Restarting with stat
+2024-02-20 11:06:32,274 - WARNING -  * Debugger is active!
+2024-02-20 11:06:32,274 - INFO -  * Debugger PIN: 110-433-334
+2024-02-20 11:06:32,825 - ERROR - Invalid username or password
+2024-02-20 11:06:32,825 - INFO - 127.0.0.1 - - [20/Feb/2024 11:06:32] "[31m[1mGET /login HTTP/1.1[0m" 401 -
+2024-02-20 11:06:44,216 - INFO - 127.0.0.1 - - [20/Feb/2024 11:06:44] "[33mGET / HTTP/1.1[0m" 404 -
+2024-02-20 11:06:44,609 - INFO - 127.0.0.1 - - [20/Feb/2024 11:06:44] "[33mGET / HTTP/1.1[0m" 404 -
+2024-02-20 11:06:47,235 - INFO - 127.0.0.1 - - [20/Feb/2024 11:06:47] "GET /logs HTTP/1.1" 200 -
+2024-02-20 11:06:51,321 - ERROR - Invalid username or password
+2024-02-20 11:06:51,321 - INFO - 127.0.0.1 - - [20/Feb/2024 11:06:51] "[31m[1mGET /login HTTP/1.1[0m" 401 -
+2024-02-20 11:06:51,805 - ERROR - Invalid username or password
+2024-02-20 11:06:51,805 - INFO - 127.0.0.1 - - [20/Feb/2024 11:06:51] "[31m[1mGET /login HTTP/1.1[0m" 401 -
+2024-02-20 11:08:28,683 - INFO - 127.0.0.1 - - [20/Feb/2024 11:08:28] "OPTIONS /login HTTP/1.1" 200 -
+2024-02-20 11:08:29,830 - INFO - 127.0.0.1 - - [20/Feb/2024 11:08:29] "OPTIONS /login HTTP/1.1" 200 -
+2024-02-20 11:08:30,043 - INFO - 127.0.0.1 - - [20/Feb/2024 11:08:30] "OPTIONS /login HTTP/1.1" 200 -
+2024-02-20 11:08:52,674 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-02-20 11:08:52,674 - INFO - [33mPress CTRL+C to quit[0m
+2024-02-20 11:08:52,674 - INFO -  * Restarting with stat
+2024-02-20 11:08:53,027 - WARNING -  * Debugger is active!
+2024-02-20 11:08:53,046 - INFO -  * Debugger PIN: 110-433-334
+2024-02-20 11:09:10,748 - INFO - 127.0.0.1 - - [20/Feb/2024 11:09:10] "OPTIONS /login HTTP/1.1" 200 -
+2024-02-20 11:09:11,569 - INFO - 127.0.0.1 - - [20/Feb/2024 11:09:11] "OPTIONS /login HTTP/1.1" 200 -
+2024-02-20 11:09:11,788 - INFO - 127.0.0.1 - - [20/Feb/2024 11:09:11] "OPTIONS /login HTTP/1.1" 200 -
+2024-02-20 11:09:50,666 - INFO - 127.0.0.1 - - [20/Feb/2024 11:09:50] "OPTIONS /login HTTP/1.1" 200 -
+2024-02-20 11:09:50,862 - INFO - 127.0.0.1 - - [20/Feb/2024 11:09:50] "OPTIONS /login HTTP/1.1" 200 -
+2024-02-20 11:09:54,309 - ERROR - Invalid username or password
+2024-02-20 11:09:54,309 - INFO - 127.0.0.1 - - [20/Feb/2024 11:09:54] "[31m[1mGET /login HTTP/1.1[0m" 401 -
+2024-02-20 11:11:26,999 - INFO -  * Detected change in 'C:\\Users\\ssakth029\\Desktop\\Emp_checkin\\emp_checkin\\src\\data\\emp_checkin.py', reloading
+2024-02-20 11:11:27,031 - INFO -  * Restarting with stat
+2024-02-20 11:11:27,354 - WARNING -  * Debugger is active!
+2024-02-20 11:11:27,354 - INFO -  * Debugger PIN: 110-433-334
+2024-02-20 11:11:28,385 - INFO -  * Detected change in 'C:\\Users\\ssakth029\\Desktop\\Emp_checkin\\emp_checkin\\src\\data\\emp_checkin.py', reloading
+2024-02-20 11:11:28,424 - INFO -  * Restarting with stat
+2024-02-20 11:11:28,772 - WARNING -  * Debugger is active!
+2024-02-20 11:11:28,784 - INFO -  * Debugger PIN: 110-433-334
+2024-02-20 11:11:29,808 - INFO -  * Detected change in 'C:\\Users\\ssakth029\\Desktop\\Emp_checkin\\emp_checkin\\src\\data\\emp_checkin.py', reloading
+2024-02-20 11:11:29,840 - INFO -  * Restarting with stat
+2024-02-20 11:11:45,493 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-02-20 11:11:45,493 - INFO - [33mPress CTRL+C to quit[0m
+2024-02-20 11:11:45,502 - INFO -  * Restarting with stat
+2024-02-20 11:11:45,836 - WARNING -  * Debugger is active!
+2024-02-20 11:11:45,851 - INFO -  * Debugger PIN: 110-433-334
+2024-02-20 11:11:45,869 - ERROR - Invalid username or password
+2024-02-20 11:11:45,869 - INFO - 127.0.0.1 - - [20/Feb/2024 11:11:45] "[31m[1mGET /login HTTP/1.1[0m" 401 -
+2024-02-20 11:11:48,046 - ERROR - Invalid username or password
+2024-02-20 11:11:48,046 - INFO - 127.0.0.1 - - [20/Feb/2024 11:11:48] "[31m[1mGET /login HTTP/1.1[0m" 401 -
+2024-02-20 11:11:48,257 - ERROR - Invalid username or password
+2024-02-20 11:11:48,257 - INFO - 127.0.0.1 - - [20/Feb/2024 11:11:48] "[31m[1mGET /login HTTP/1.1[0m" 401 -
+2024-02-20 11:11:48,410 - ERROR - Invalid username or password
+2024-02-20 11:11:48,410 - INFO - 127.0.0.1 - - [20/Feb/2024 11:11:48] "[31m[1mGET /login HTTP/1.1[0m" 401 -
+2024-02-20 11:14:40,619 - INFO -  * Detected change in 'C:\\Users\\ssakth029\\Desktop\\Emp_checkin\\emp_checkin\\src\\data\\emp_checkin.py', reloading
+2024-02-20 11:14:40,654 - INFO -  * Restarting with stat
+2024-02-20 11:14:41,302 - WARNING -  * Debugger is active!
+2024-02-20 11:14:41,302 - INFO -  * Debugger PIN: 110-433-334
+2024-02-20 11:14:42,330 - INFO -  * Detected change in 'C:\\Users\\ssakth029\\Desktop\\Emp_checkin\\emp_checkin\\src\\data\\emp_checkin.py', reloading
+2024-02-20 11:14:42,423 - INFO -  * Restarting with stat
+2024-02-20 11:14:42,813 - WARNING -  * Debugger is active!
+2024-02-20 11:14:42,813 - INFO -  * Debugger PIN: 110-433-334
+2024-02-20 11:16:01,301 - INFO -  * Detected change in 'C:\\Users\\ssakth029\\Desktop\\Emp_checkin\\emp_checkin\\src\\data\\emp_checkin.py', reloading
+2024-02-20 11:16:01,331 - INFO -  * Restarting with stat
+2024-02-20 11:16:01,611 - WARNING -  * Debugger is active!
+2024-02-20 11:16:01,611 - INFO -  * Debugger PIN: 110-433-334
+2024-02-20 11:16:05,578 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-02-20 11:16:05,578 - INFO - [33mPress CTRL+C to quit[0m
+2024-02-20 11:16:05,578 - INFO -  * Restarting with stat
+2024-02-20 11:16:05,818 - WARNING -  * Debugger is active!
+2024-02-20 11:16:05,818 - INFO -  * Debugger PIN: 110-433-334
+2024-02-20 11:16:09,461 - INFO - 127.0.0.1 - - [20/Feb/2024 11:16:09] "[31m[1mGET /login HTTP/1.1[0m" 405 -
+2024-02-20 11:16:09,692 - INFO - 127.0.0.1 - - [20/Feb/2024 11:16:09] "[31m[1mGET /login HTTP/1.1[0m" 405 -
+2024-02-20 11:16:10,238 - INFO - 127.0.0.1 - - [20/Feb/2024 11:16:10] "[31m[1mGET /login HTTP/1.1[0m" 405 -
+2024-02-20 11:16:10,445 - INFO - 127.0.0.1 - - [20/Feb/2024 11:16:10] "[31m[1mGET /login HTTP/1.1[0m" 405 -
+2024-02-20 11:18:52,656 - INFO -  * Detected change in 'C:\\Users\\ssakth029\\Desktop\\Emp_checkin\\emp_checkin\\src\\data\\emp_checkin.py', reloading
+2024-02-20 11:18:52,684 - INFO -  * Restarting with stat
+2024-02-20 11:18:52,955 - WARNING -  * Debugger is active!
+2024-02-20 11:18:52,956 - INFO -  * Debugger PIN: 110-433-334
+2024-02-20 11:19:00,012 - INFO -  * Detected change in 'C:\\Users\\ssakth029\\Desktop\\Emp_checkin\\emp_checkin\\src\\data\\emp_checkin.py', reloading
+2024-02-20 11:19:00,025 - INFO -  * Restarting with stat
+2024-02-20 11:19:00,284 - WARNING -  * Debugger is active!
+2024-02-20 11:19:00,288 - INFO -  * Debugger PIN: 110-433-334
+2024-02-20 11:19:03,130 - INFO - 127.0.0.1 - - [20/Feb/2024 11:19:03] "[31m[1mGET /login HTTP/1.1[0m" 405 -
+2024-02-20 11:19:03,304 - INFO - 127.0.0.1 - - [20/Feb/2024 11:19:03] "[31m[1mGET /login HTTP/1.1[0m" 405 -
+2024-02-20 11:19:03,524 - INFO - 127.0.0.1 - - [20/Feb/2024 11:19:03] "[31m[1mGET /login HTTP/1.1[0m" 405 -
+2024-02-20 11:19:03,753 - INFO - 127.0.0.1 - - [20/Feb/2024 11:19:03] "[31m[1mGET /login HTTP/1.1[0m" 405 -
+2024-02-20 11:19:03,952 - INFO - 127.0.0.1 - - [20/Feb/2024 11:19:03] "[31m[1mGET /login HTTP/1.1[0m" 405 -
+2024-02-20 11:19:04,164 - INFO - 127.0.0.1 - - [20/Feb/2024 11:19:04] "[31m[1mGET /login HTTP/1.1[0m" 405 -
+2024-02-20 11:19:43,509 - INFO - 127.0.0.1 - - [20/Feb/2024 11:19:43] "[31m[1mGET /login HTTP/1.1[0m" 405 -
+2024-02-20 11:19:43,730 - INFO - 127.0.0.1 - - [20/Feb/2024 11:19:43] "[31m[1mGET /login HTTP/1.1[0m" 405 -
+2024-02-20 11:19:43,929 - INFO - 127.0.0.1 - - [20/Feb/2024 11:19:43] "[31m[1mGET /login HTTP/1.1[0m" 405 -
+2024-02-20 11:19:44,116 - INFO - 127.0.0.1 - - [20/Feb/2024 11:19:44] "[31m[1mGET /login HTTP/1.1[0m" 405 -
+2024-02-20 11:19:45,148 - INFO - 127.0.0.1 - - [20/Feb/2024 11:19:45] "[31m[1mGET /login HTTP/1.1[0m" 405 -
+2024-02-20 11:19:45,339 - INFO - 127.0.0.1 - - [20/Feb/2024 11:19:45] "[31m[1mGET /login HTTP/1.1[0m" 405 -
+2024-02-20 11:19:45,549 - INFO - 127.0.0.1 - - [20/Feb/2024 11:19:45] "[31m[1mGET /login HTTP/1.1[0m" 405 -
+2024-02-20 11:19:45,759 - INFO - 127.0.0.1 - - [20/Feb/2024 11:19:45] "[31m[1mGET /login HTTP/1.1[0m" 405 -
+2024-02-20 11:19:45,947 - INFO - 127.0.0.1 - - [20/Feb/2024 11:19:45] "[31m[1mGET /login HTTP/1.1[0m" 405 -
+2024-02-20 11:19:46,231 - INFO - 127.0.0.1 - - [20/Feb/2024 11:19:46] "[31m[1mGET /login HTTP/1.1[0m" 405 -
+2024-02-20 11:19:46,507 - INFO - 127.0.0.1 - - [20/Feb/2024 11:19:46] "[31m[1mGET /login HTTP/1.1[0m" 405 -
+2024-02-20 11:19:46,761 - INFO - 127.0.0.1 - - [20/Feb/2024 11:19:46] "[31m[1mGET /login HTTP/1.1[0m" 405 -
+2024-02-20 11:19:47,065 - INFO - 127.0.0.1 - - [20/Feb/2024 11:19:47] "[31m[1mGET /login HTTP/1.1[0m" 405 -
+2024-02-20 11:19:47,305 - INFO - 127.0.0.1 - - [20/Feb/2024 11:19:47] "[31m[1mGET /login HTTP/1.1[0m" 405 -
+2024-02-20 11:19:47,524 - INFO - 127.0.0.1 - - [20/Feb/2024 11:19:47] "[31m[1mGET /login HTTP/1.1[0m" 405 -
+2024-02-20 11:19:47,787 - INFO - 127.0.0.1 - - [20/Feb/2024 11:19:47] "[31m[1mGET /login HTTP/1.1[0m" 405 -
+2024-02-20 11:19:48,034 - INFO - 127.0.0.1 - - [20/Feb/2024 11:19:48] "[31m[1mGET /login HTTP/1.1[0m" 405 -
+2024-02-20 11:19:48,256 - INFO - 127.0.0.1 - - [20/Feb/2024 11:19:48] "[31m[1mGET /login HTTP/1.1[0m" 405 -
+2024-02-20 11:19:48,474 - INFO - 127.0.0.1 - - [20/Feb/2024 11:19:48] "[31m[1mGET /login HTTP/1.1[0m" 405 -
+2024-02-20 11:19:48,693 - INFO - 127.0.0.1 - - [20/Feb/2024 11:19:48] "[31m[1mGET /login HTTP/1.1[0m" 405 -
+2024-02-20 11:19:48,915 - INFO - 127.0.0.1 - - [20/Feb/2024 11:19:48] "[31m[1mGET /login HTTP/1.1[0m" 405 -
+2024-02-20 11:19:49,155 - INFO - 127.0.0.1 - - [20/Feb/2024 11:19:49] "[31m[1mGET /login HTTP/1.1[0m" 405 -
+2024-02-20 11:19:49,424 - INFO - 127.0.0.1 - - [20/Feb/2024 11:19:49] "[31m[1mGET /login HTTP/1.1[0m" 405 -
+2024-02-20 11:19:49,703 - INFO - 127.0.0.1 - - [20/Feb/2024 11:19:49] "[31m[1mGET /login HTTP/1.1[0m" 405 -
+2024-02-20 11:19:49,944 - INFO - 127.0.0.1 - - [20/Feb/2024 11:19:49] "[31m[1mGET /login HTTP/1.1[0m" 405 -
+2024-02-20 11:19:50,191 - INFO - 127.0.0.1 - - [20/Feb/2024 11:19:50] "[31m[1mGET /login HTTP/1.1[0m" 405 -
+2024-02-20 11:19:50,438 - INFO - 127.0.0.1 - - [20/Feb/2024 11:19:50] "[31m[1mGET /login HTTP/1.1[0m" 405 -
+2024-02-20 11:19:50,671 - INFO - 127.0.0.1 - - [20/Feb/2024 11:19:50] "[31m[1mGET /login HTTP/1.1[0m" 405 -
+2024-02-20 11:19:50,886 - INFO - 127.0.0.1 - - [20/Feb/2024 11:19:50] "[31m[1mGET /login HTTP/1.1[0m" 405 -
+2024-02-20 11:19:51,069 - INFO - 127.0.0.1 - - [20/Feb/2024 11:19:51] "[31m[1mGET /login HTTP/1.1[0m" 405 -
+2024-02-20 11:19:51,278 - INFO - 127.0.0.1 - - [20/Feb/2024 11:19:51] "[31m[1mGET /login HTTP/1.1[0m" 405 -
+2024-02-20 11:19:51,497 - INFO - 127.0.0.1 - - [20/Feb/2024 11:19:51] "[31m[1mGET /login HTTP/1.1[0m" 405 -
+2024-02-20 11:19:54,917 - INFO - 127.0.0.1 - - [20/Feb/2024 11:19:54] "[31m[1mGET /login HTTP/1.1[0m" 405 -
+2024-02-20 11:19:55,100 - INFO - 127.0.0.1 - - [20/Feb/2024 11:19:55] "[31m[1mGET /login HTTP/1.1[0m" 405 -
+2024-02-20 11:19:55,298 - INFO - 127.0.0.1 - - [20/Feb/2024 11:19:55] "[31m[1mGET /login HTTP/1.1[0m" 405 -
+2024-02-20 11:20:05,949 - INFO - 127.0.0.1 - - [20/Feb/2024 11:20:05] "OPTIONS /login HTTP/1.1" 200 -
+2024-02-20 11:20:05,956 - ERROR - Invalid username or password
+2024-02-20 11:20:05,956 - INFO - 127.0.0.1 - - [20/Feb/2024 11:20:05] "[31m[1mPOST /login HTTP/1.1[0m" 401 -
+2024-02-20 11:22:15,399 - INFO -  * Detected change in 'C:\\Users\\ssakth029\\Desktop\\Emp_checkin\\emp_checkin\\src\\data\\emp_checkin.py', reloading
+2024-02-20 11:22:15,427 - INFO -  * Restarting with stat
+2024-02-20 14:14:24,067 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-02-20 14:14:24,067 - INFO - [33mPress CTRL+C to quit[0m
+2024-02-20 14:14:24,070 - INFO -  * Restarting with stat
+2024-02-20 14:14:24,355 - WARNING -  * Debugger is active!
+2024-02-20 14:14:24,363 - INFO -  * Debugger PIN: 110-433-334
+2024-02-20 14:14:38,135 - INFO - 127.0.0.1 - - [20/Feb/2024 14:14:38] "OPTIONS /login HTTP/1.1" 200 -
+2024-02-20 14:14:38,139 - ERROR - Invalid username or password
+2024-02-20 14:14:38,139 - INFO - 127.0.0.1 - - [20/Feb/2024 14:14:38] "[31m[1mPOST /login HTTP/1.1[0m" 401 -
+2024-02-20 14:15:08,282 - INFO - 127.0.0.1 - - [20/Feb/2024 14:15:08] "[33mGET / HTTP/1.1[0m" 404 -
+2024-02-20 14:15:08,735 - INFO - 127.0.0.1 - - [20/Feb/2024 14:15:08] "[33mGET / HTTP/1.1[0m" 404 -
+2024-02-20 14:15:12,029 - INFO - 127.0.0.1 - - [20/Feb/2024 14:15:12] "GET /logs HTTP/1.1" 200 -
+2024-02-20 14:15:28,501 - INFO -  * Detected change in 'C:\\Users\\ssakth029\\Desktop\\Emp_checkin\\emp_checkin\\src\\data\\emp_checkin.py', reloading
+2024-02-20 14:15:28,525 - INFO -  * Restarting with stat
+2024-02-20 14:15:28,812 - WARNING -  * Debugger is active!
+2024-02-20 14:15:28,812 - INFO -  * Debugger PIN: 110-433-334
+2024-02-20 14:15:31,837 - INFO -  * Detected change in 'C:\\Users\\ssakth029\\Desktop\\Emp_checkin\\emp_checkin\\src\\data\\emp_checkin.py', reloading
+2024-02-20 14:15:31,854 - INFO -  * Restarting with stat
+2024-02-20 14:15:32,148 - WARNING -  * Debugger is active!
+2024-02-20 14:15:32,159 - INFO -  * Debugger PIN: 110-433-334
+2024-02-20 14:15:33,885 - INFO - 127.0.0.1 - - [20/Feb/2024 14:15:33] "GET /logs HTTP/1.1" 200 -
+2024-02-20 14:15:34,327 - INFO - 127.0.0.1 - - [20/Feb/2024 14:15:34] "GET /logs HTTP/1.1" 200 -
+2024-02-20 14:15:37,824 - INFO - 127.0.0.1 - - [20/Feb/2024 14:15:37] "[31m[1mGET /login HTTP/1.1[0m" 405 -
+2024-02-20 14:15:38,300 - INFO - 127.0.0.1 - - [20/Feb/2024 14:15:38] "[31m[1mGET /login HTTP/1.1[0m" 405 -
+2024-02-20 14:15:45,195 - INFO -  * Detected change in 'C:\\Users\\ssakth029\\Desktop\\Emp_checkin\\emp_checkin\\src\\data\\emp_checkin.py', reloading
+2024-02-20 14:15:45,217 - INFO -  * Restarting with stat
+2024-02-20 14:15:45,508 - WARNING -  * Debugger is active!
+2024-02-20 14:15:45,508 - INFO -  * Debugger PIN: 110-433-334
+2024-02-20 14:15:48,231 - INFO - User meena logged in.
+2024-02-20 14:15:48,237 - INFO - 127.0.0.1 - - [20/Feb/2024 14:15:48] "GET /login HTTP/1.1" 200 -
+2024-02-20 14:15:48,486 - INFO - User meena logged in.
+2024-02-20 14:15:48,486 - INFO - 127.0.0.1 - - [20/Feb/2024 14:15:48] "GET /login HTTP/1.1" 200 -
+2024-02-20 14:15:56,550 - INFO -  * Detected change in 'C:\\Users\\ssakth029\\Desktop\\Emp_checkin\\emp_checkin\\src\\data\\emp_checkin.py', reloading
+2024-02-20 14:15:56,570 - INFO -  * Restarting with stat
+2024-02-20 14:15:56,824 - WARNING -  * Debugger is active!
+2024-02-20 14:15:56,842 - INFO -  * Debugger PIN: 110-433-334
+2024-02-20 14:15:58,858 - INFO -  * Detected change in 'C:\\Users\\ssakth029\\Desktop\\Emp_checkin\\emp_checkin\\src\\data\\emp_checkin.py', reloading
+2024-02-20 14:15:58,877 - INFO -  * Restarting with stat
+2024-02-20 14:15:59,136 - WARNING -  * Debugger is active!
+2024-02-20 14:15:59,144 - INFO -  * Debugger PIN: 110-433-334
+2024-02-20 14:15:59,393 - INFO - User harini logged in.
+2024-02-20 14:15:59,393 - INFO - 127.0.0.1 - - [20/Feb/2024 14:15:59] "GET /login HTTP/1.1" 200 -
+2024-02-20 14:16:02,161 - INFO -  * Detected change in 'C:\\Users\\ssakth029\\Desktop\\Emp_checkin\\emp_checkin\\src\\data\\emp_checkin.py', reloading
+2024-02-20 14:16:02,179 - INFO -  * Restarting with stat
+2024-02-20 14:16:02,439 - WARNING -  * Debugger is active!
+2024-02-20 14:16:02,439 - INFO -  * Debugger PIN: 110-433-334
+2024-02-20 14:16:02,947 - ERROR - Invalid username or password
+2024-02-20 14:16:02,947 - INFO - 127.0.0.1 - - [20/Feb/2024 14:16:02] "[31m[1mGET /login HTTP/1.1[0m" 401 -
+2024-02-20 14:16:08,469 - INFO -  * Detected change in 'C:\\Users\\ssakth029\\Desktop\\Emp_checkin\\emp_checkin\\src\\data\\emp_checkin.py', reloading
+2024-02-20 14:16:08,486 - INFO -  * Restarting with stat
+2024-02-20 14:16:08,732 - WARNING -  * Debugger is active!
+2024-02-20 14:16:08,749 - INFO -  * Debugger PIN: 110-433-334
+2024-02-20 14:16:19,782 - INFO -  * Detected change in 'C:\\Users\\ssakth029\\Desktop\\Emp_checkin\\emp_checkin\\src\\data\\emp_checkin.py', reloading
+2024-02-20 14:16:19,799 - INFO -  * Restarting with stat
+2024-02-20 14:16:20,114 - WARNING -  * Debugger is active!
+2024-02-20 14:16:20,119 - INFO -  * Debugger PIN: 110-433-334
+2024-02-20 14:16:21,115 - INFO - User pooja logged in.
+2024-02-20 14:16:21,115 - INFO - 127.0.0.1 - - [20/Feb/2024 14:16:21] "GET /login HTTP/1.1" 200 -
+2024-02-20 14:16:21,373 - INFO - User pooja logged in.
+2024-02-20 14:16:21,373 - INFO - 127.0.0.1 - - [20/Feb/2024 14:16:21] "GET /login HTTP/1.1" 200 -
+2024-02-20 14:16:41,173 - INFO -  * Detected change in 'C:\\Users\\ssakth029\\Desktop\\Emp_checkin\\emp_checkin\\src\\data\\emp_checkin.py', reloading
+2024-02-20 14:16:41,192 - INFO -  * Restarting with stat
+2024-02-20 14:19:58,191 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-02-20 14:19:58,191 - INFO - [33mPress CTRL+C to quit[0m
+2024-02-20 14:19:58,195 - INFO -  * Restarting with stat
+2024-02-20 14:19:58,453 - WARNING -  * Debugger is active!
+2024-02-20 14:19:58,459 - INFO -  * Debugger PIN: 110-433-334
+2024-02-20 14:20:13,975 - INFO - 127.0.0.1 - - [20/Feb/2024 14:20:13] "[33mGET / HTTP/1.1[0m" 404 -
+2024-02-20 14:20:14,232 - INFO - 127.0.0.1 - - [20/Feb/2024 14:20:14] "[33mGET / HTTP/1.1[0m" 404 -
+2024-02-20 14:20:17,520 - INFO - 127.0.0.1 - - [20/Feb/2024 14:20:17] "GET /logs HTTP/1.1" 200 -
+2024-02-20 14:20:21,556 - INFO - User pooja logged in.
+2024-02-20 14:20:21,556 - INFO - 127.0.0.1 - - [20/Feb/2024 14:20:21] "GET /login HTTP/1.1" 200 -
+2024-02-20 14:22:45,506 - INFO - 127.0.0.1 - - [20/Feb/2024 14:22:45] "OPTIONS /login HTTP/1.1" 200 -
+2024-02-20 14:22:49,112 - INFO - 127.0.0.1 - - [20/Feb/2024 14:22:49] "OPTIONS /login HTTP/1.1" 200 -
+2024-02-20 14:59:27,324 - INFO - 127.0.0.1 - - [20/Feb/2024 14:59:27] "OPTIONS /login HTTP/1.1" 200 -
+2024-02-20 16:07:34,947 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-02-20 16:07:34,947 - INFO - [33mPress CTRL+C to quit[0m
+2024-02-20 16:07:34,955 - INFO -  * Restarting with stat
+2024-02-20 16:07:35,272 - WARNING -  * Debugger is active!
+2024-02-20 16:07:35,278 - INFO -  * Debugger PIN: 110-433-334
+2024-02-20 16:10:16,823 - INFO - User pooja logged in.
+2024-02-20 16:10:16,824 - INFO - 127.0.0.1 - - [20/Feb/2024 16:10:16] "GET /login HTTP/1.1" 200 -
+2024-02-20 16:10:16,997 - INFO - User pooja logged in.
+2024-02-20 16:10:16,998 - INFO - 127.0.0.1 - - [20/Feb/2024 16:10:16] "GET /login HTTP/1.1" 200 -
+2024-02-20 16:10:47,528 - INFO - 127.0.0.1 - - [20/Feb/2024 16:10:47] "OPTIONS /login HTTP/1.1" 200 -
+2024-02-20 16:10:57,218 - INFO - 127.0.0.1 - - [20/Feb/2024 16:10:57] "OPTIONS /login HTTP/1.1" 200 -
+2024-02-20 16:11:03,850 - INFO - User pooja logged in.
+2024-02-20 16:11:03,850 - INFO - 127.0.0.1 - - [20/Feb/2024 16:11:03] "GET /login HTTP/1.1" 200 -
