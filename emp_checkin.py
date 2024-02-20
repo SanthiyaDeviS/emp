@@ -11,13 +11,8 @@ app = Flask(__name__)
 logging.basicConfig(filename='emp_checkin.log', level=logging.DEBUG,
                     format='%(asctime)s - %(levelname)s - %(message)s')
 
-user_credentials = {
-    "pooja": {"password": "123", "is_admin": True},
-    "john": {"password": "123", "is_admin": False},
-    "meena": {"password": "123", "is_admin": False},
-    "sakthi": {"password": "123", "is_admin": False},
-    "harini": {"password": "123", "is_admin": False}
-}
+with open('user_credentials.json') as f:
+    user_credentials = json.load(f)
 
 
 @app.route('/login', methods=['GET'])
